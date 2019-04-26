@@ -8,9 +8,9 @@ Route::middleware('web')
 
 
 //non-auth, non-api web routes for tenants
-        
-        
-        
+
+
+
     });
 
 
